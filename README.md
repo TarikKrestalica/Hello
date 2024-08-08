@@ -1,2 +1,2 @@
 # Hello
-MathFest 2024 Demo
+Demo as part of the 2024 MAA Mathfest at Indianapolis, Indiana
